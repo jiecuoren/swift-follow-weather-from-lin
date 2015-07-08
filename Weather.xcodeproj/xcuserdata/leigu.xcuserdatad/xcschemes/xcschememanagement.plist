@@ -4,15 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods.xcscheme</key>
+		<key>Weather.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3243FC237358D922DDD6FE19</key>
+		<key>DFFB68BB1B499BBE00C5E064</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DFFB68D01B499BBE00C5E064</key>
 		<dict>
 			<key>primary</key>
 			<true/>
